@@ -1,0 +1,17 @@
+numpy
+opencv_python
+loguru
+scikit-image
+tqdm
+thop
+tabulate
+tensorboard
+seaborn
+packaging
+cycler
+python-dateutil
+kiwisolver
+pytz
+prettytable
+pyzmq
+pycocotools>=2.0.2
